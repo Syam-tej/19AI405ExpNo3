@@ -129,10 +129,10 @@ G F
 2 4 
 3 4 
 ```
-<h3>Sample Output</h3>
-<hr>
+### Sample Output
+```
 ['0', '1', '2', '3', '4']
-<hr>
-<h3>Result:</h3>
-<hr>
+```
+### Result:
+
 <p>Thus,a Graph was constructed and implementation of Breadth First Search for the same graph was done successfully.</p>
